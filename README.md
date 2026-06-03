@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Kamran Haider 👋
 
-<!--
-**haider-kamran/haider-kamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Laravel Developer with 7+ years of experience building:
 
-Here are some ideas to get you started:
+✅ SaaS Applications
+✅ ERP Systems
+✅ CRM Platforms
+✅ Custom CMS Solutions
+✅ REST APIs
+✅ Payment Integrations
+✅ Multi-Tenant Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Laravel
+PHP
+Vue.js
+MySQL
+PostgreSQL
+Redis
+Docker
+AWS
+GitHub Actions
+
+## Open Source Packages
+
+### Laravel VoIPNow
+Package for VoIPNow integration in Laravel.
+
+### Laravel Custom Fields
+Dynamic custom fields and repeaters for Laravel applications.
+
+## Contact
+
+📧 kamrankhosa40@gmail.com
+💼 LinkedIn: your-linkedin
+🌐 Portfolio: your-website
