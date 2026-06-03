@@ -33,5 +33,5 @@ Dynamic custom fields and repeaters for Laravel applications.
 ## Contact
 
 📧 kamrankhosa40@gmail.com
-💼 LinkedIn: your-linkedin
-🌐 Portfolio: your-website
+💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/kamran-haider-laravel-developer/)
+🌐 Portfolio: [your-website](https://servex.apextelephony.org/)
