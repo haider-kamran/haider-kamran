@@ -3,31 +3,31 @@
 
 <td width="55%" valign="top">
 
-## 🚀 About Me
+## About Me
 
 Senior Laravel Developer with **7+ years of experience** building scalable SaaS platforms, enterprise systems, and production-grade business applications.
 
-### 🧩 Key Projects
+### Key Projects
 
-🎓 **Apex Academy (LMS)**  
+**Apex Academy (LMS)**  
 Laravel + Vue + Inertia LMS for online learning, courses, instructors, and student management.  
 👉 http://academy.apextelephony.org/
 
-🏢 **VoIP CRM**  
+**VoIP CRM**  
 CRM system with VoIP integration, call tracking, leads, and automation workflows.
 
-🏠 **GharTak**  
+**GharTak**  
 Real estate platform for listings, property management, and customer engagement.  
 👉 https://servex.apextelephony.org/
 
-💳 **Halal Paisa**  
+**Halal Paisa**  
 FinTech platform for secure financial transactions and payment workflows.  
 👉 https://halalpaisa.com/
 
-🏭 **WHMS (Workforce Management System)**  
+**WHMS (Workforce Management System)**  
 HR system for attendance, shifts, payroll, and employee lifecycle management.
 
-🌐 **Golden Tree Network**  
+**Golden Tree Network**  
 Enterprise platform for managing users, workflows, and business operations.  
 👉 https://goldentreenetwork.com/
 
@@ -71,7 +71,7 @@ Enterprise platform for managing users, workflows, and business operations.
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 Email: kamrankhosa40@gmail.com  
+📧 Email: kamranhaider4475@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/kamran-haider-laravel-developer/  
