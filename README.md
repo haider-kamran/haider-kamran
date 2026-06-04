@@ -7,30 +7,37 @@
 
 Senior Laravel Developer with **7+ years of experience** building scalable SaaS platforms, enterprise systems, and production-grade business applications.
 
-### Key Projects
+### Featured Projects
 
-**Apex Academy (LMS)**  
-Laravel + Vue + Inertia LMS for online learning, courses, instructors, and student management.  
-👉 http://academy.apextelephony.org/
+**Siclytics** — VoIP Monitoring & Analytics Platform  
+👉 https://siclytics.com
 
-**VoIP CRM**  
-CRM system with VoIP integration, call tracking, leads, and automation workflows.
+**FulfillIT** — E-commerce Automation & Fulfillment System  
+👉 https://fulfillit.io
 
-**GharTak**  
-Real estate platform for listings, property management, and customer engagement.  
-👉 https://servex.apextelephony.org/
+**TasMover** — Transportation & Fleet Management Platform  
+👉 https://tasmover.com
 
-**Halal Paisa**  
-FinTech platform for secure financial transactions and payment workflows.  
-👉 https://halalpaisa.com/
+**PayPlus** — Online Payment Gateway Solution  
+👉 https://payplus.pk
 
-**WHMS (Workforce Management System)**  
-HR system for attendance, shifts, payroll, and employee lifecycle management.
+**Apex Academy** — LMS Platform (Laravel + Vue + Inertia)  
+👉 http://academy.apextelephony.org
 
-**Golden Tree Network**  
-Enterprise platform for managing users, workflows, and business operations.  
-👉 https://goldentreenetwork.com/
+**GharTak** — Real Estate & Property Management Platform  
+👉 https://servex.apextelephony.org
 
+**Halal Paisa** — FinTech & Digital Financial Services Platform  
+👉 https://halalpaisa.com
+
+**Golden Tree Network** — Enterprise Business Platform  
+👉 https://goldentreenetwork.com
+
+**Circle Care Clinic** — Healthcare & Patient Management Platform  
+👉 https://www.circlecareclinic.com
+
+**Allied Medical Center** — Healthcare Website & Management System  
+👉 https://www.alliedmedicalcenter.net
 </td>
 
 <td width="45%" valign="top">
@@ -64,6 +71,16 @@ Enterprise platform for managing users, workflows, and business operations.
 - Payment & Financial Integrations  
 - Custom Laravel Packages  
 
+### 🌍 Additional Client Projects
+
+- [HeadStart UAE](https://headstartuae.com)
+- [La Crema UAE](https://lacrema.ae)
+- [Abshar Movers](https://absharmovers.com)
+- [CSCS](https://cscs.io)
+- [ISMO Pakistan](https://ismo.gov.pk)
+- WHMS (Workforce Management System)
+- VoIP CRM
+- Custom ERP & CRM Solutions
 </td>
 
 </tr>
