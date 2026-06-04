@@ -71,16 +71,21 @@ Senior Laravel Developer with **7+ years of experience** building scalable SaaS 
 - Payment & Financial Integrations  
 - Custom Laravel Packages  
 
-### 🌍 Additional Client Projects
+## Additional Client Projects
 
+### Live Websites
 - [HeadStart UAE](https://headstartuae.com)
 - [La Crema UAE](https://lacrema.ae)
 - [Abshar Movers](https://absharmovers.com)
 - [CSCS](https://cscs.io)
 - [ISMO Pakistan](https://ismo.gov.pk)
-- WHMS (Workforce Management System)
-- VoIP CRM
-- Custom ERP & CRM Solutions
+- [Circle Care Clinic](https://www.circlecareclinic.com)
+- [Allied Medical Center](https://www.alliedmedicalcenter.net)
+
+### Systems & Platforms
+- WHMS (Warehouse Management System)
+- VoIP CRM System
+- Custom ERP Solutions
 </td>
 
 </tr>
