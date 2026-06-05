@@ -6,6 +6,7 @@
 ## About Me
 
 Senior Laravel Developer with **7+ years of experience** building scalable SaaS platforms, enterprise systems, and production-grade business applications.
+<img width="1774" height="887" alt="ChatGPT Image Jun 5, 2026, 12_00_30 PM" src="https://github.com/user-attachments/assets/72f2ac97-2314-47be-b2e3-e2938efd9cf1" />
 
 ### Featured Projects
 
